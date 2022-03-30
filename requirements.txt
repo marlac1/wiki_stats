@@ -1,0 +1,12 @@
+asgiref==3.4.1
+author==0.0.0.0.dev20200926
+certifi==2021.10.8
+charset-normalizer==2.0.12
+Django==3.1.6
+django-environ==0.8.1
+idna==3.3
+pytz==2022.1
+requests==2.27.1
+sqlparse==0.4.2
+urllib3==1.26.9
+Wikipedia-API==0.5.4
